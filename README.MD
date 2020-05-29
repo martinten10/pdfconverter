@@ -5,7 +5,7 @@
 <h3>
 	环境需求：
 </h3>
-<span style="color:#E53333;">windows 2008</span><br />
+<span style="color:#E53333;">windows server 2008 r2</span><br />
 <span style="color:#E53333;">Adobe Acrobat DC</span><br />
 <br />
 <h3>
